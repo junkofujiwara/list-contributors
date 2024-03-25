@@ -1,4 +1,4 @@
-# List GitHub Contributors in Organization
+# List GitHub Contributors in GitHub Organization
 
 This script lists all contributors to all repositories in a GitHub organization.
 
@@ -14,7 +14,7 @@ This script lists all contributors to all repositories in a GitHub organization.
 4. The script will output a CSV file with the contributors.
 
 ## Example
-repo_a, contributor_x, 10
-repo_b, contributor_y, 5
-repo_a, contributor_z, 3
+repo_a, contributor_x, 10<br>
+repo_b, contributor_y, 5<br>
+repo_a, contributor_z, 3<br>
 
